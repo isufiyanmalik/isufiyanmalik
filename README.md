@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sufiyan.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JavaScript.
+- 📫 You can reach me at worksufiyanmalik@gmail.com
+- ➕ Connect with me on LinkedIn <a href="https://www.linkedin.com/in/isufiyanmalik">@isufiyanmalik</a>
